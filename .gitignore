@@ -5,3 +5,4 @@ Content/bin
 Publish
 Properties/PublishProfiles/FolderProfile.pubxml.user
 ProjectZ.csproj.user
+!buildTools
